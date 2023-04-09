@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center">
+<img src="zeta.gif">
+</p>
 
-<!--
-**selverie/selverie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Halo</h1>
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/selverie">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selverie&layout=compact&langs_count=20&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=selverie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/selverie/selverie/blob/output/github-contribution-grid-snake.svg" />
+</div>
