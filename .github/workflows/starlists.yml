@@ -1,0 +1,29 @@
+name: Generate Starlists
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: selverie/selverie@latest
+        with:
+          # Use current time to avoid 304 responses
+          timestamp: ${{ github.run_number }}
+          # GitHub token to use for authentication and rate limit (provided by the Github Secrets)
+          token: ${{ secrets.starlists }}
+          # List of repositories and their respective options (optional)
+          repositories: |
+            selverie/selverie:
+              starlists:
+                title: "Stargazers of Metrics"
+                limit: 10
+          # List of organizations and their respective options (optional)
+          organizations: |
+            elverie:
+              starlists:
+                title: "Stargazers of @lowlighter's projects"
+                limit: 10
