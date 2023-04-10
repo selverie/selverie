@@ -17,8 +17,8 @@
 </div>
 
 <td colspan="2" align="center">
-      <details open><summary>Repositories from star lists</summary><img src="https://github.com/selverie/selverie/blob/examples/metrics.plugin.starlists.svg" alt=""></img></details>
-      <details open><summary>Languages from star lists</summary><img src="https://github.com/selverie/selverie/blob/examples/metrics.plugin.starlists.languages.svg" alt=""></img></details>
+      <details open><summary>Repositories from star lists</summary><img src="https://github.com/selverie/selverie/blob/examples/selverie.plugin.starlists.svg" alt=""></img></details>
+      <details open><summary>Languages from star lists</summary><img src="https://github.com/selverie/selverie/blob/examples/selverie.plugin.starlists.languages.svg" alt=""></img></details>
       <img width="900" height="1" alt="">
     </td>
 
