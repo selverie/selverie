@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-.
+selverie
 </p>
 
 <div align="center">
@@ -17,8 +17,7 @@
 </div>
   
 <div align="center">
-  <img src="https://github.com/selverie/selverie/blob/output/github-contribution-grid-snake.svg" />
+  <img height="200em" src="https://spotify-github-profile.vercel.app/api/view?uid=8c9pkrhon1pqez28056t77csr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true"/>
+  <img width="850em" src="https://github.com/selverie/selverie/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8c9pkrhon1pqez28056t77csr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
-</div>  
