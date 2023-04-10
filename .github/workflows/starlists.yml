@@ -1,5 +1,5 @@
 name: Featured star list
-  uses: lowlighter/metrics@latest
+  uses: selverie/metrics@latest
   with:
     filename: metrics.plugin.starlists.svg
     token: NOT_NEEDED
