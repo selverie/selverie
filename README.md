@@ -3,12 +3,8 @@
 </p>
 
 <div align="center">
-  <h1>Halo</h1>
+  <h1>all for sleep 💤</h1>
 </div>
-
-<p align="center">
-selverie
-</p>
 
 <div align="center">
   <a href="https://github.com/selverie">
@@ -18,6 +14,6 @@ selverie
   
 <div align="center">
   <img height="200em" src="https://spotify-github-profile.vercel.app/api/view?uid=8c9pkrhon1pqez28056t77csr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true"/>
-  <img width="850em" src="https://github.com/selverie/selverie/blob/output/github-contribution-grid-snake.svg" />
+  <img width="860em" src="https://github.com/selverie/selverie/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
