@@ -17,5 +17,10 @@
 </div>
 
 <div align="center">
+  <details open><summary>Repositories from star lists</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.svg" alt=""></img></details>
+   <details open><summary>Languages from star lists</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.starlists.languages.svg" alt=""></img></details><img width="900" height="1" alt="">
+</div>
+  
+<div align="center">
   <img src="https://github.com/selverie/selverie/blob/output/github-contribution-grid-snake.svg" />
 </div>
