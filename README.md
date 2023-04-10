@@ -16,8 +16,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=selverie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<!--START_SECTION:starlists-->
-<!--END_SECTION:starlists-->
+![Stars](https://github.com/lowlighter/metrics/blob/master/github/PROFILE_NAME/starlist/badge.svg)
 
 <div align="center">
   <img src="https://github.com/selverie/selverie/blob/output/github-contribution-grid-snake.svg" />
