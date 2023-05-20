@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1>all for sleep 💤</h1>
+  <h1>💤</h1>
 </div>
 
 <div align="center">
