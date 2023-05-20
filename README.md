@@ -1,5 +1,5 @@
 <p align="center">
-<img height="200em" src="https://media.tenor.com/492-Kwhg88sAAAAi/menhera-chan.gif" loop>
+<img height="200em" src="https://media.tenor.com/492-Kwhg88sAAAAi/menhera-chan.gif">
 </p>
 
 <div align="center">
