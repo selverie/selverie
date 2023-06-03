@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h2>Lucifugus - Lunatic Emperor 👑 </h2>
+  <h3>👑<br>Lucifugus - Lunatic Emperor</h3>
 </div>
 
 <img src="./Queen/uwu.png" width="210" align="right" />
