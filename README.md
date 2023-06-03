@@ -6,6 +6,8 @@
   <h1>🎮</h1>
 </div>
 
+<img src="./Queen/uwu.png" width="230" align="right" />
+
 <div align="center">
   <a href="https://github.com/selverie">
     <img height="200em" src="Queen/languages.png"/>
@@ -20,8 +22,7 @@
 <div align="center">
   <img height="150em" src="Queen/contributions.png"/>
   <img width="650em" height="200em" src="https://github.com/selverie/selverie/blob/output/github-contribution-grid-snake.svg" />
-</div>
-  
+</div>  
 
 <div align="center">
   <img height="150em" src="https://spotify-github-profile.vercel.app/api/view?uid=8c9pkrhon1pqez28056t77csr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true"/>
