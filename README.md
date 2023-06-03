@@ -6,8 +6,6 @@
   <h3>👑<br>Lucifugus - Lunatic Emperor</h3>
 </div>
 
-<img src="./Queen/uwu.png" width="200" align="right" />
-
 <div align="center">
   <a href="https://github.com/selverie">
     <img height="170em" src="Queen/languages.png"/>
