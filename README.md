@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1>🎮</h1>
+  <h1>👑 </h1>
 </div>
 
 <img src="./Queen/uwu.png" width="210" align="right" />
