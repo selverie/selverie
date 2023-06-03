@@ -21,7 +21,7 @@
 </div>
   
 <div align="center">
-  <img height="150em" src="Queen/stats.png"/>
+  <img height="150em" src="Queen/contributions.png"/>
   <img width="660em" height="200em" src="https://github.com/selverie/selverie/blob/output/github-contribution-grid-snake.svg" />
   
 </div>
