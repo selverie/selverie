@@ -8,10 +8,10 @@
 
 <div align="center">
   <a href="https://github.com/selverie">
-    <img height="200em" src="Queen/languages.png"/>
+    <img height="200em" src="Queen/languages.pn"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selverie&layout=compact&langs_count=20&theme=tokyonight"/>
     <br>
-    <img height="200em" src="Queen/stats.png"/>
+    <img height="200em" src="Queen/stats.pn"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=selverie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
