@@ -3,7 +3,10 @@
 </p>
 
 <div align="center">
-  <h3>👑<br>Lucifugus - Lunatic Emperor</h3>
+  <h3>👑
+    <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Lucifugus+-+Lunatic+Emperor">
+  </h3>
 </div>
 
 <div align="center">
