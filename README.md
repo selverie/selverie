@@ -1,9 +1,9 @@
 <p align="center">
-  <img height="200em" src="https://media.tenor.com/492-Kwhg88sAAAAi/menhera-chan.gif">
+  <img height="300em" src="https://media.tenor.com/9Uq6ywliuEQAAAAd/date-a-bullet.gif">
 </p>
 
 <div align="center">
-  <h1>💤</h1>
+  <h1>☔</h1>
 </div>
 
 <div align="center">
