@@ -21,9 +21,8 @@
 </div>
   
 <div align="center">
-  <br>
     <img height="200em" src="Queen/contribution.png"/>
-  <img width="700em" height="250em" src="https://github.com/selverie/selverie/blob/output/github-contribution-grid-snake.svg" />
+  <img width="600em" height="250em" src="https://github.com/selverie/selverie/blob/output/github-contribution-grid-snake.svg" />
 </div>  
 
 
