@@ -5,7 +5,7 @@
 <div align="center">
   <h3>👑
     <br>
-      <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Lucifugus+-+Lunatic+Emperor">
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=C0C0C0&center=true&width=435&lines=Lucifugus+-+Lunatic+Emperor">
   </h3>
 </div>
 
