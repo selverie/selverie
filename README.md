@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300em" src="https://media.tenor.com/9Uq6ywliuEQAAAAd/date-a-bullet.gif">
+  <img height="300em" src="https://media.tenor.com/9Uq6ywliuEQAAAAC/date-a-bullet.gif">
 </p>
 
 <div align="center">
