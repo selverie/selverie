@@ -16,8 +16,8 @@
 </div>
     
 <div align="center">
-  <img height="187em" src="Queen/stat.png"/>
-    <img height="187em" src="https://github-readme-stats.vercel.app/api?username=selverie&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="173em" src="Queen/stat.png"/>
+    <img height="173em" src="https://github-readme-stats.vercel.app/api?username=selverie&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
 </div><br>
   
 <div align="center">
