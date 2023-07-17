@@ -20,9 +20,10 @@
     <img height="187em" src="https://github-readme-stats.vercel.app/api?username=selverie&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
 </div><br>
   
+<!-- 
 <div align="center">
   <img height="40em" src="Queen/contribution.png"><br>
     <img width="585em" src="https://github.com/selverie/selverie/blob/output/github-contribution-grid-snake.svg" />
 </div>  
-
+-->
 
