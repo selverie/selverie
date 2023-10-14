@@ -22,10 +22,11 @@
 
 [![@selverie's](https://holopin.me/selverie)](https://holopin.io/@selverie)
   
-<!-- 
 <div align="center">
-  <img height="40em" src="Queen/contribution.png"><br>
-    <img width="585em" src="https://github.com/selverie/selverie/blob/output/github-contribution-grid-snake.svg" />
-</div>  
--->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stevenaruu/stevenaruu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stevenaruu/stevenaruu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/stevenaruu/stevenaruu/output/github-contribution-grid-snake.svg">
+  </picture>
+<div/>
 
