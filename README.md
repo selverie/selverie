@@ -2,8 +2,6 @@
   <img height="300em" src="https://media.tenor.com/9Uq6ywliuEQAAAAC/date-a-bullet.gif">
 </p>
 
-[![@selverie's](https://holopin.me/selverie)](https://holopin.io/@selverie)
-
 <div align="center">
   <h3>👑
     <br>
@@ -21,6 +19,8 @@
   <img height="187em" src="Queen/stat.png"/>
     <img height="187em" src="https://github-readme-stats.vercel.app/api?username=selverie&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
 </div><br>
+
+[![@selverie's](https://holopin.me/selverie)](https://holopin.io/@selverie)
   
 <!-- 
 <div align="center">
