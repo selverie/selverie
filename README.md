@@ -20,4 +20,8 @@
     <img height="187em" src="https://github-readme-stats.vercel.app/api?username=selverie&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
 </div><br>
 
-[![@selverie's](https://holopin.me/selverie)](https://holopin.io/@selverie)
+<div align="center">
+  <img height="175em" src="https://holopin.me/selverie"/>
+</div><br>
+
+
