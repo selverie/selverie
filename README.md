@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/selverie">
-    <img height="190em" src="Queen/language.webp"/>
-      <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selverie&layout=compact&langs_count=20&theme=white"/>
+    <img height="195em" src="Queen/language.webp"/>
+      <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selverie&layout=compact&langs_count=20&theme=white"/>
 </div>
     
 <div align="center">
