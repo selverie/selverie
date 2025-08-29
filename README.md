@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/7a6ddfe3-9b26-49d5-89d7-0436a304f76b" width="450"/>
 </div>
 
-<hr/>
-
 <div align="center">
   <a href="https://github.com/selverie">
     <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selverie&layout=compact&langs_count=20"/>
