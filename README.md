@@ -2,7 +2,7 @@
 
 # Kun · Selverie
 
-### Fullstack & Android Developer 🛠️
+### Fullstack & Android Developer
 
 *"I don't write code anymore. I argue with AI until it works."*
 
