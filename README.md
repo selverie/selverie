@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kun · Selverie ✦
+# Kun · Selverie
 
 ### Fullstack & Android Developer 🛠️
 
