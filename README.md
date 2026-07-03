@@ -23,7 +23,7 @@
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selverie&layout=compact&langs_count=20&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=380&border_color=30363d" height="185"/>
-<img src="https://github-readme-stats.vercel.app/api?username=selverie&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&custom_title=Kun%27s%20GitHub%20Stats&card_width=380&border_color=30363d" height="185"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=selverie&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&custom_title=Kun%27s%20GitHub%20Stats&card_width=380&border_color=30363d" height="185"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selverie/selverie/output/github-contribution-grid-snake-dark.svg">
